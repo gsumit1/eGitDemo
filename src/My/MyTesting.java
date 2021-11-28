@@ -9,6 +9,7 @@ public class MyTesting {
 		
 		System.out.println(c);
 		
+		System.out.println(a*b);
 	}
 
 }
